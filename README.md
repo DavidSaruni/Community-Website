@@ -10,7 +10,7 @@ Kindly go through the [project guideline](https://github.com/Chimoney/Community-
 The site showcases different sections of content that include:
 
 * [Blogs](https://chimoney.github.io/Community-Website/#blogs)
-* Tutorials
+* [Tutorials](https://chimoney.github.io/Community-Website/#tutorials)
 * [Events](https://chimoney.github.io/Community-Website/#events)
 * [Community](https://chimoney.github.io/Community-Website/#community)
 
